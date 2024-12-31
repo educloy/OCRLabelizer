@@ -1,1 +1,3 @@
 # OCRLabelizer
+
+need python-tk
